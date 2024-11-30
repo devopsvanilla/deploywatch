@@ -1,8 +1,8 @@
-# Project: DeployWatch
+# DeployWatch - Docker Compose background deployment with display progress
 
 ## Description
 
-**DeployWatch** is a Bash script designed to facilitate the deployment of `docker-compose.yml` files in the background while displaying the progress on the screen. It allows the user to decide whether to continue waiting, specify more time, stop monitoring (while the deployment continues in the background), or remove the deployment.
+**DeployWatch**🚀 is a Bash script designed to facilitate the deployment of `docker-compose.yml` files in the background while displaying the progress on the screen. It allows the user to decide whether to continue waiting, specify more time, stop monitoring (while the deployment continues in the background), or remove the deployment.
 
 ## Features
 
