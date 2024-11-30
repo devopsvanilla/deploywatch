@@ -1,4 +1,4 @@
-# DeployWatch - Docker Compose background deployment with display progress
+# DeployWatch
 
 ## Description
 
